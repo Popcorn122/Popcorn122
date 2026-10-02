@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Mohammed! 👋
 
-<!--
-**Popcorn122/Popcorn122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a Web Developer currently learning **[Python]**. I am actively seeking remote junior developer or internship opportunities where I can contribute and grow.
 
-Here are some ideas to get you started:
+- 💼 Looking for: **Remote Entry-Level Roles**
+- 📫 How to reach me: **mohammedamodu2000@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+
+### 📊 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Popcorn122&show_icons=true&theme=radical)
+
+
